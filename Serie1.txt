@@ -1,0 +1,20 @@
+ModSpez4K - Serie 1
+
+Aufgabe4)
+a)
+
+1.Fall
+Sind die "issues" noch nicht fertig, so endet der Prozess gleich nach dem Anschauen der Issue-Liste. In diesem Fall ist jede
+Reihenfolge möglich, schließlich sind Aussagen über die leere Menge immer wahr.
+
+2.Fall
+Sind die Issues fertig, so beginnt der Subprozess ("Discussion Cycle").
+Dieser fängt mit "Announce Issues for Discussion" an. Dann kommt optional 
+"Moderate Conference Call Discussion", sofern eine Woche ist, in der Conference Calls sind.
+Danach kommt sicher die Aktivität "Moderate Conference Call Discussion".
+Der Subprozess "Discussion Cycle" kann sich noch mehrere Male wiederholen. 
+
+Nun kommt der Subprozess "Collect Votes". Trat die Aktivität "Moderate Conference Call Discussion"
+bisher noch nicht auf, so wird sie nun zum ersten Mal durchgeführt.
+
+Danach kommt die Aktivität "Prepare Results".
